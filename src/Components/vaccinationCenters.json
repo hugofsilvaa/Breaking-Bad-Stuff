@@ -1,0 +1,115 @@
+
+{  
+    "vaccinationCenters" : [
+    {
+        "country": "Portugal",
+        "city": "Lisbon",
+        "id": 1,
+        "center": "Centro de Saúde Sete Rios",
+        "address": "R. São Domingos de Benfica 20, Lisboa",
+        "img": "https://www.centrosdesaude.pt/wp-content/uploads/2017/11/Sete-Rios.jpg",
+        "latitude": 38.739767437995255,
+        "longitude": -9.168464371586904,
+        "phone": 351217211800
+    },
+    {
+        "country": "Portugal",
+        "city": "Lisbon",
+        "id": 2,
+        "center": "Centro de Saúde de São Mamede-Santa Isabel",
+        "address": "Tv. do Noronha 5A, 1250-026 Lisboa",
+        "img": "https://www.centrosdesaude.pt/wp-content/uploads/2017/11/Sao-Mamede-Santa-Isabel.jpg",
+        "latitude": 38.7178479237832,
+        "longitude": -9.152000793759314,
+        "phone": 351213947310
+    },
+    {
+        "country": "Portugal",
+        "city": "Lisbon",
+        "id": 3,
+        "center": "Centro Saúde do Lumiar",
+        "address": "5°/6°, 144, Alameda das Linhas de Torres 243, Lisboa",
+        "img": "https://www.centrosdesaude.pt/wp-content/uploads/2017/11/Lumiar.jpg",
+        "latitude": 38.772270855361,
+        "longitude": -9.161110702426129,
+        "phone": 351217527110
+    },
+    {
+        "country": "Portugal",
+        "city": "Lisbon",
+        "id": 4,
+        "center": "Unidade de Cuidados de Saúde Personalizados (Mónicas)",
+        "address": "Travessa das Mónicas 57D, 1100-495 Lisboa",
+        "img": "https://www.arslvt.min-saude.pt/thumbs/uploads/writer_file/image/7521/M_nicas_2_1_690_400.JPG",
+        "latitude": 38.71522832036849,
+        "longitude": -9.130471858251557,
+        "phone": 351218806000
+    },
+    {
+        "country": "Portugal",
+        "city": "Lisbon",
+        "id": 5,
+        "center": "Unidade de Cuidados de Saúde Personalizados de Benfica",
+        "address": "R. Dr. José Baptista de Sousa 15 4º Andar, 1500-083 Lisboa",
+        "img": "https://www.centrosdesaude.pt/wp-content/uploads/2017/11/Benfica.jpg",
+        "latitude": 38.75067186407143,
+        "longitude": -9.19431806009733,
+        "phone": 351217125194
+    },
+    {
+        "country": "Portugal",
+        "city": "Lisbon",
+        "id": 6,
+        "center": "Centro de Saúde da Lapa",
+        "address": "R. de São Ciro 36, 1200-830 Lisboa",
+        "img": "https://www.centrosdesaude.pt/wp-content/uploads/2017/11/Lapa.jpg",
+        "latitude": 38.711875357659345,
+        "longitude": -9.161902200581153,
+        "phone": 351213931250
+    },
+    {
+        "country": "Portugal",
+        "city": "Lisbon",
+        "id": 7,
+        "center": "Centro de Saúde da Penha de França",
+        "address": "R. Luís Pinto Moitinho 5, Lisboa",
+        "img": "https://www.centrosdesaude.pt/wp-content/uploads/2017/11/Penha-de-Franca.jpg",
+        "latitude": 38.72427471484632,
+        "longitude": -9.134574844757106,
+        "phone": 351218164100
+    },
+    {
+        "country": "Portugal",
+        "city": "Lisbon",
+        "id": 8,
+        "center": "Centro de Saúde Alameda",
+        "address": "R. Carvalho Araújo 103 2º piso, 1900-181 Lisboa",
+        "img": "https://www.centrosdesaude.pt/wp-content/uploads/2017/11/Alameda.jpg",
+        "latitude": 38.73685984381174,
+        "longitude": -9.130928064357505,
+        "phone": 351218105000
+    },
+    {
+        "country": "Portugal",
+        "city": "Lisbon",
+        "id": 9,
+        "center": "Centro de Saúde Ajuda",
+        "address": "Tv. Florindas 5, 1300-294 Lisboa",
+        "img": "https://www.centrosdesaude.pt/wp-content/uploads/2017/11/Ajuda.jpg",
+        "latitude": 38.705769230395404,
+        "longitude": -9.19444349447088,
+        "phone": 351213600260
+    },
+    {
+        "country": "Portugal",
+        "city": "Lisbon",
+        "id": 10,
+        "center": "Unidade de Cuidados de Saúde Personalizados de Alcântara (CS Alcantara)",
+        "address": "Calçada da Tapada 126, 1349-049 Alcântara, Lisboa",
+        "img": "https://www.centrosdesaude.pt/wp-content/uploads/2017/11/Alcantra.jpg",
+        "latitude": 38.706168917181515,
+        "longitude": -9.185125229416608,
+        "phone": 351213630130
+    }
+]
+}
